@@ -1,0 +1,8 @@
+# venv
+sample-book
+
+# build directory
+book/_build
+
+# notebook cache
+.ipynb_checkpoints
